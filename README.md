@@ -1,4 +1,4 @@
-# OLEDi2c
+# Dot Matrix SPI
 Using the STM32F303K8 and SPI communication protocol to output on a Dot Matrix
 
 Tools: 
