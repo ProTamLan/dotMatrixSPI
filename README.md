@@ -11,3 +11,5 @@ The code is based on:
 
 ## Possiblities
 -  Displaying Text
+## Necessary Changes
+-  File I2C mistype, update to SPI file names
