@@ -5,11 +5,17 @@ Tools:
 - STM32F303K8 - USB Data Cable
 - Breadboard 
 - 5 Jumper Wires 
-- Dot Matrix Module (Cascaded: 4 Units) (By: )
+- Dot Matrix (Module: MAX7219) (Cascaded: 4 Units) (By: HiLetgo)
 
 The code is based on:
 
 ## Possiblities
--  Displaying Text
+-  Displaying Text (Directional Scroll Method)
+-  Adjusting String Scroll Generation Speed
+
+![image](https://github.com/ProTamLan/dotMatrixSPI/assets/75819639/5d5c6df5-31fa-4802-9c6d-0cc6dccc724c)
+
+
 ## Necessary Changes
 -  File I2C mistype, update to SPI file names
+
