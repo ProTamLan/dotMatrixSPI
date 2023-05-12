@@ -7,7 +7,7 @@ Tools:
 - 5 Jumper Wires 
 - Dot Matrix (Module: MAX7219) (Cascaded: 4 Units) (By: HiLetgo)
 
-The code is based on: <ahref ="https://controllerstech.com/cascading-dot-matrix-and-stm32/"> max_matrix_stm32 <a> 
+The code is based on: <a href ="https://controllerstech.com/cascading-dot-matrix-and-stm32/"> max_matrix_stm32 </a> 
 
 ## Possiblities
 -  Displaying Text (Directional Scroll Method)
