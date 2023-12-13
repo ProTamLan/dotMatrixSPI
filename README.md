@@ -19,3 +19,6 @@ The code is based on: <a href ="https://controllerstech.com/cascading-dot-matrix
 ## Necessary Changes
 -  File I2C mistype, update to SPI file names
 
+## Wiring Configuration
+-VCC, GND, DOUT, CS, CLK
+![wiresetup](https://github.com/ProTamLan/dotMatrixSPI/assets/75819639/d2aefff5-ad82-4e21-b2b2-e2fd2bc763d9)
