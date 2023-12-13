@@ -21,4 +21,5 @@ The code is based on: <a href ="https://controllerstech.com/cascading-dot-matrix
 
 ## Wiring Configuration
 -VCC, GND, DOUT, CS, CLK
+<br>
 <img src="https://github.com/ProTamLan/dotMatrixSPI/assets/75819639/7cd860e0-4442-40df-960c-dfdd61bf38e9" width="500" height="450">
